@@ -1,6 +1,6 @@
 {
-    "title": "Freelancer",
-    "name": "startbootstrap-freelancer",
+    "title": "Website Resmi RFIunknown",
+    "name": "Website",
     "version": "7.0.5",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
+    "description": "Gratis Cuy.",
     "keywords": [
         "css",
         "sass",
@@ -23,19 +23,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/freelancer",
+    "homepage": "https://rfiunknown.github.io/dist/",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-freelancer/issues",
+        "url": "https://rfiunknown.github.io/dist//issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "RFIunknown",
     "contributors": [
-        "David Miller (https://davidmiller.io/)"
+        "RFIunknown (https://github.com/RFIunknown/RFIunknown.github.io)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-freelancer.git"
+        "url": "https://github.com/RFIunknown/RFIunknown.github.io.git"
     },
     "dependencies": {
         "bootstrap": "5.1.3"
